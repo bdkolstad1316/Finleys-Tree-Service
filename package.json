@@ -1,0 +1,11 @@
+{
+  "name": "finleys-tree-service",
+  "version": "1.0.0",
+  "description": "Finley's Tree Service website",
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
